@@ -21,9 +21,9 @@ function TodoApp() {
 
     return (
         <div className="container">
-            <h1>TODO App</h1>
+            <h1>Lista zadań:</h1>
 
-            <div className="imput-group">
+            <div className="input-group">
                 <input
                     value={input}
                     onChange={(element) => setInput(element.target.value)}
