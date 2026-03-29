@@ -1,5 +1,14 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    background-color:dimgray;
+    background-color:rgb(155, 155, 155);
     margin: 0;
+}
+
+.container {
+    margin: 50px auto;
+    background: rgb(80, 80, 80); 
+}
+
+h1 {
+    text-align: center;
 }
